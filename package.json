@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "nstall": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-responsive": "^9.0.2",
     "styled-components": "^6.0.2"
   },
   "devDependencies": {
